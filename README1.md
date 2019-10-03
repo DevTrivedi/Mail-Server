@@ -8,10 +8,12 @@
 | Monil Shah | 16012121027 |
 
 **Developers Introduction:**
+
 Pursuing B.Tech in Computer Science and Engineering with Specialization in _Big Data and Analytics_ at Ganpat University.
 
 
 **Project Introduction:**
+
 The _MAIL SERVER_ is based on a python language, which can be used as a mailing system. It takes data from a predefined excel file that contains the data i.e. Email ID of the students, Attachment which you want to send with the mail and the date on which you want to send them an email. The sample excel file is present to make you aware of the format.
 
 
