@@ -2,10 +2,10 @@
 
 **Created By:**
 
-| **Name**    | **Enrollment No.** |
-| Dev Trivedi | 16012121035        |
-| Monil Shah  | 16012121027        |
-
+| **Name** | **Enrollment No.** |
+| --- | --- |
+| Dev Trivedi | 16012121035 |
+| Monil Shah | 16012121027 |
 
 **Developers Introduction:**
 Pursuing B.Tech in Computer Science and Engineering with Specialization in _Big Data and Analytics_ at Ganpat University.
